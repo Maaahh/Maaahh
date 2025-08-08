@@ -6,6 +6,7 @@
 - 😄 Pronouns: I use all female pronouns and they/them pronouns. IM NOT A "HE"
 - ⚡ Fun fact: cheeseburger
 
+btw this is just the default readme.md thing but edited by me and i dont do much on here so dont expect too much
 <!---
 Maaahh/Maaahh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
