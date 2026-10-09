@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to make a Gorilla Tag fangame
 - 💞️ I’m looking to collaborate on videos
 - 📫 How to reach me ...
-- 😄 Pronouns: I use all female pronouns and they/them pronouns. IM NOT A "HE"
+- 😄 Pronouns: any normative (she/they/he)
 - ⚡ Fun fact: cheeseburger
 
  btw this is just the default readme.md thing but edited by me and i dont do much on here so dont expect too much
