@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maaahh , also known as FrogToadjmh
+- 👋 Hi, I’m @TheAmphibianNerd
 - 👀 I’m interested in frogs, and website/game making
 - 🌱 I’m currently learning how to make a Gorilla Tag fangame
 - 💞️ I’m looking to collaborate on videos
